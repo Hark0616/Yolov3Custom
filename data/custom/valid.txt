@@ -1,0 +1,3 @@
+data/custom/images/mango_malo 7.jpg
+data/custom/images/mango_maduro 83.jpg
+data/custom/images/mango_nmaduro 16.jpg
