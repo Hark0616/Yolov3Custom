@@ -57,7 +57,7 @@ https://pjreddie.com/media/files/papers/YOLOv3.pdf
   
   	$!pip install opencv-python numpy matplotlib tensorboard terminaltables pillow tqdm
   
-  	$!git clone https://github.com/DavidReveloLuna/Yolov3Custom.git
+  	$!git clone https://github.com/Hark0616/Yolov3Custom.git
   
   	$cd Yolov3Custom
   
